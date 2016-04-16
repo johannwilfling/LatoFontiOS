@@ -1,0 +1,16 @@
+PODS:
+  - LatoFontiOS (0.1.0)
+
+DEPENDENCIES:
+  - LatoFontiOS (from `../`)
+
+EXTERNAL SOURCES:
+  LatoFontiOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LatoFontiOS: 74bfe9a5da181bdb6fc333935329434db9542412
+
+PODFILE CHECKSUM: 67bf36c69e2d24c0031aa2e38c95c7ea5523ca5a
+
+COCOAPODS: 1.0.0.beta.2

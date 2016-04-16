@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "LatoFontiOS"
   s.version          = "0.1.0"
-  s.summary          = "A short description of LatoFontiOS."
+  s.summary          = "Provides the font family Lato."
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,8 +17,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-                       DESC
+  s.description      = "Provides the font family Lato for iOS."
 
   s.homepage         = "https://github.com/<GITHUB_USERNAME>/LatoFontiOS"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"

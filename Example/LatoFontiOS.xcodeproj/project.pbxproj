@@ -13,6 +13,8 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		931B7E861AEBC4779DBB7447 /* Pods_LatoFontiOS_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84B53599C5A0FFF2A7394276 /* Pods_LatoFontiOS_Example.framework */; };
+		9876928673EFF89F1E0CC20A /* Pods_LatoFontiOS_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 32233C6DB582252A56CCB3E5 /* Pods_LatoFontiOS_Tests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,9 +28,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		060423ED55CCB0866F4E9EE1 /* LatoFontiOS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = LatoFontiOS.podspec; path = ../LatoFontiOS.podspec; sourceTree = "<group>"; };
-		1D0866ADC888789556406E3F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		060423ED55CCB0866F4E9EE1 /* LatoFontiOS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LatoFontiOS.podspec; path = ../LatoFontiOS.podspec; sourceTree = "<group>"; };
+		1D0866ADC888789556406E3F /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		32233C6DB582252A56CCB3E5 /* Pods_LatoFontiOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LatoFontiOS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B6514CB06B15F074AF993C1 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		43B698D35E5B9A7D363935EB /* Pods-LatoFontiOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatoFontiOS_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LatoFontiOS_Example/Pods-LatoFontiOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* LatoFontiOS_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LatoFontiOS_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -39,6 +43,10 @@
 		607FACE51AFB9204008FA782 /* LatoFontiOS_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LatoFontiOS_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
+		728EEA03DC5928E58519175F /* Pods-LatoFontiOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatoFontiOS_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LatoFontiOS_Tests/Pods-LatoFontiOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		84B53599C5A0FFF2A7394276 /* Pods_LatoFontiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LatoFontiOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		97D92313DF121E7FFA18FE4A /* Pods-LatoFontiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatoFontiOS_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-LatoFontiOS_Example/Pods-LatoFontiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
+		EF987A7954CF58C03EF7E57D /* Pods-LatoFontiOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LatoFontiOS_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LatoFontiOS_Tests/Pods-LatoFontiOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -46,6 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				931B7E861AEBC4779DBB7447 /* Pods_LatoFontiOS_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -53,12 +62,33 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9876928673EFF89F1E0CC20A /* Pods_LatoFontiOS_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1E47AA89767414970B886E21 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				43B698D35E5B9A7D363935EB /* Pods-LatoFontiOS_Example.debug.xcconfig */,
+				97D92313DF121E7FFA18FE4A /* Pods-LatoFontiOS_Example.release.xcconfig */,
+				EF987A7954CF58C03EF7E57D /* Pods-LatoFontiOS_Tests.debug.xcconfig */,
+				728EEA03DC5928E58519175F /* Pods-LatoFontiOS_Tests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		323C6126CF1241C8FBD5C572 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				84B53599C5A0FFF2A7394276 /* Pods_LatoFontiOS_Example.framework */,
+				32233C6DB582252A56CCB3E5 /* Pods_LatoFontiOS_Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		607FACC71AFB9204008FA782 = {
 			isa = PBXGroup;
 			children = (
@@ -66,6 +96,8 @@
 				607FACD21AFB9204008FA782 /* Example for LatoFontiOS */,
 				607FACE81AFB9204008FA782 /* Tests */,
 				607FACD11AFB9204008FA782 /* Products */,
+				1E47AA89767414970B886E21 /* Pods */,
+				323C6126CF1241C8FBD5C572 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -134,9 +166,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "LatoFontiOS_Example" */;
 			buildPhases = (
+				8AB0416013BC0206D76EF4EF /* Check Pods Manifest.lock */,
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
+				3B48FCD9B7534916A0D131FA /* Embed Pods Frameworks */,
+				B7712A5567481C16F8CAA24B /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -151,9 +186,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "LatoFontiOS_Tests" */;
 			buildPhases = (
+				3BBA609D9663AD0B7DDEFF0C /* Check Pods Manifest.lock */,
 				607FACE11AFB9204008FA782 /* Sources */,
 				607FACE21AFB9204008FA782 /* Frameworks */,
 				607FACE31AFB9204008FA782 /* Resources */,
+				42EA9D48C63D98A5D83728A4 /* Embed Pods Frameworks */,
+				549D86F8B87E09E8B0B539CF /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -184,7 +222,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "PROJECT" */;
+			buildConfigurationList = 607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "LatoFontiOS" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -222,6 +260,99 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		3B48FCD9B7534916A0D131FA /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LatoFontiOS_Example/Pods-LatoFontiOS_Example-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3BBA609D9663AD0B7DDEFF0C /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		42EA9D48C63D98A5D83728A4 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LatoFontiOS_Tests/Pods-LatoFontiOS_Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		549D86F8B87E09E8B0B539CF /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LatoFontiOS_Tests/Pods-LatoFontiOS_Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8AB0416013BC0206D76EF4EF /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B7712A5567481C16F8CAA24B /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-LatoFontiOS_Example/Pods-LatoFontiOS_Example-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		607FACCC1AFB9204008FA782 /* Sources */ = {
@@ -355,6 +486,7 @@
 		};
 		607FACF01AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43B698D35E5B9A7D363935EB /* Pods-LatoFontiOS_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LatoFontiOS/Info.plist;
@@ -367,6 +499,7 @@
 		};
 		607FACF11AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 97D92313DF121E7FFA18FE4A /* Pods-LatoFontiOS_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = LatoFontiOS/Info.plist;
@@ -379,6 +512,7 @@
 		};
 		607FACF31AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = EF987A7954CF58C03EF7E57D /* Pods-LatoFontiOS_Tests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -397,6 +531,7 @@
 		};
 		607FACF41AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 728EEA03DC5928E58519175F /* Pods-LatoFontiOS_Tests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -412,7 +547,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "PROJECT" */ = {
+		607FACCB1AFB9204008FA782 /* Build configuration list for PBXProject "LatoFontiOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACED1AFB9204008FA782 /* Debug */,

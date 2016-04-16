@@ -1,0 +1,6 @@
+framework module LatoFontiOS {
+  umbrella header "LatoFontiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

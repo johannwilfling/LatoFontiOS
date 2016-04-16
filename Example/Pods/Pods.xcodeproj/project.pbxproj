@@ -7,16 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		047D16D612B1148B8138DCCBEDC66288 /* LatoLatin-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 97CD2329177B73E25C4A2F6CD3A656D3 /* LatoLatin-Italic.ttf */; };
 		054FF55493A57208FEEBF0F51722EEA9 /* Pods-LatoFontiOS_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0DC46CFC52EF716E4040553999081858 /* Pods-LatoFontiOS_Tests-dummy.m */; };
+		0E03884FB6D50D80E5F7ADC7CBD3556D /* LatoLatin-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A1205F32ADCFF5A4A52CB9981A8E6C19 /* LatoLatin-Regular.ttf */; };
 		12E3E02EF14593964D7E73BD87D2141E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */; };
+		1863B2C7D7C7C8CD8EDF3E876C93E984 /* LatoLatin-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 448B2378F549429BF1E80C6C5D97D9C4 /* LatoLatin-Medium.ttf */; };
+		18E4C6758141595B33F96ADC8C7A4F2E /* LatoLatin-HeavyItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 64973AD72BFCE519C6CEF80626F197DC /* LatoLatin-HeavyItalic.ttf */; };
+		1D920C635B9990809D06534119B84B53 /* LatoLatin-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B60EBF3BE8F4801A2B1F8AA03CC7CF57 /* LatoLatin-MediumItalic.ttf */; };
+		3647288D4BD539EFDD22410F71D5EDFA /* LatoLatin-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FD64E4135275B7BF0AFD06B6F1AD3EFB /* LatoLatin-BoldItalic.ttf */; };
+		36CE03DBB366014A76E34B86364D3111 /* LatoLatin-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D4A6DCDCED58FD53AE8F067C300612A0 /* LatoLatin-ThinItalic.ttf */; };
+		474F0D37758E4A73A178402767C60102 /* LatoLatin-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A87C032A443C2FC872ACD72BCB54C5F1 /* LatoLatin-Black.ttf */; };
+		4DF273D2343D2761E3503952CB463B67 /* LatoFontiOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3C0CD718C92B3A58694C93223960CF6D /* LatoFontiOS-dummy.m */; };
 		557D84E72642F7D68150805D49DA9561 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */; };
-		80CEF16B8278B50D2042DBE666D21408 /* LatoFontiOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C51F8CDD0EA5D74DE23354F489E29C1F /* LatoFontiOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5B41814CCC860362A7C6C1A8F245E862 /* LatoLatin-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5971F69BB0609048DCAC44C1E7DDA7E1 /* LatoLatin-Light.ttf */; };
+		79B1296D6398CD46E739088BE7E8844E /* LatoLatin-Hairline.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B1C167E5ADC7131C30AAC29FF07718D4 /* LatoLatin-Hairline.ttf */; };
+		80CEF16B8278B50D2042DBE666D21408 /* LatoFontiOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A3C315AC568FDF10590DBB1DB747CF30 /* LatoFontiOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		861575DAD550948899CF879747E0A366 /* Pods-LatoFontiOS_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 488AEA1F8863D9CD2AAA6D684DDCFD7D /* Pods-LatoFontiOS_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8928298D94028F16EDC3931B094C280F /* Pods-LatoFontiOS_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 86EE6C18F5F3B63053C8CA1F28D3B32A /* Pods-LatoFontiOS_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		96656CA740556FB1BB538C41AD3F7BC9 /* LatoFontiOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C986B50D2CFD052C9307C7B8D2F01738 /* LatoFontiOS-dummy.m */; };
-		A831058C58BD4C35EC896665450DB153 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7640EF284E69ABF53750976FEB067F1 /* ReplaceMe.swift */; };
+		8B91D96A5E4FE829DE66BC4F7D23E109 /* LatoLatin-HairlineItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E6E3AD7FCF0B50093632D9F7E55B8D17 /* LatoLatin-HairlineItalic.ttf */; };
+		8C010A12E91F5819BE3DF19033D4A66C /* LatoLatin-SemiboldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38500F64CCAB65891E81E3CC73C1E393 /* LatoLatin-SemiboldItalic.ttf */; };
+		924EA76D44BDF32F1F6784D82611DDC4 /* LatoLatin-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 11B0D0DB4A62F4F728710A3F1B1A8FFA /* LatoLatin-BlackItalic.ttf */; };
+		933BE1274572E0C0D5BDBE9059523B1A /* LatoLatin-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7ED05C3ABC610FBD2734A6DBFD70DF17 /* LatoLatin-Semibold.ttf */; };
+		A0CD563C0FC0D710CB463360BC437636 /* LatoLatin-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B4BCC107E42E0EC6A28BB45CB8D387C9 /* LatoLatin-Thin.ttf */; };
 		ACC381D9926BB9AD725EA69777728178 /* Pods-LatoFontiOS_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A5EF2B473D4A659F002337275365892 /* Pods-LatoFontiOS_Example-dummy.m */; };
+		BAA5977FF1AB9AE63F59C484803813E0 /* LatoLatin-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9F83F01D0E2ED98F10638A9FB586257A /* LatoLatin-Heavy.ttf */; };
+		BE7B7564233DE67F13EBCFCD880684DA /* LatoFontiOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98BB24097EE7D6CB435F9F1BF0620E63 /* LatoFontiOS.swift */; };
+		C9C872F09E39D72A2056CA0D45E8F1DC /* LatoLatin-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F795A47354C0C2D55D25493331D5D681 /* LatoLatin-Bold.ttf */; };
 		CD391679D4DB4D578532B4F5CBFCD327 /* LatoFontiOS.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 9CA02AB94B935FFBD5559C3B481FDF3F /* LatoFontiOS.bundle */; };
+		CE2818741D41B9965367A22B81421E91 /* LatoLatin-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 15D05F32DC8D6A271C17D89B633E450D /* LatoLatin-LightItalic.ttf */; };
 		DAD2A6491F59328A8BA170B857A27BF8 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
@@ -48,37 +66,55 @@
 		05994751CF5EFA975B028D87F2FBB530 /* Pods-LatoFontiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LatoFontiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		069A667B18FA004786EEB3058E1F32A3 /* Pods-LatoFontiOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LatoFontiOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		0DC46CFC52EF716E4040553999081858 /* Pods-LatoFontiOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LatoFontiOS_Tests-dummy.m"; sourceTree = "<group>"; };
+		11B0D0DB4A62F4F728710A3F1B1A8FFA /* LatoLatin-BlackItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-BlackItalic.ttf"; sourceTree = "<group>"; };
+		15D05F32DC8D6A271C17D89B633E450D /* LatoLatin-LightItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-LightItalic.ttf"; sourceTree = "<group>"; };
 		23D9FFCF60507C00C11972639CA040E8 /* Pods-LatoFontiOS_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LatoFontiOS_Example-frameworks.sh"; sourceTree = "<group>"; };
 		28FD16B7888F80FD511811B51F540491 /* Pods-LatoFontiOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LatoFontiOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2DED32EA12F6981F813159D97E8FB5BD /* Pods-LatoFontiOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LatoFontiOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		3026E0E0F156ADE7A9A9A2DC3CE26541 /* LatoFontiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LatoFontiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		37D198AAC5A6F85847FDA8A9FD123820 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		38500F64CCAB65891E81E3CC73C1E393 /* LatoLatin-SemiboldItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-SemiboldItalic.ttf"; sourceTree = "<group>"; };
 		3997E5D2953ECDF377B85B234FDF550D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		3C0CD718C92B3A58694C93223960CF6D /* LatoFontiOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LatoFontiOS-dummy.m"; sourceTree = "<group>"; };
 		41A56265693A457D11B501D9DEC73153 /* Pods-LatoFontiOS_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LatoFontiOS_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		43F33F3D96F1F27C9CB4212AC0130A8D /* Pods-LatoFontiOS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-LatoFontiOS_Example.modulemap"; sourceTree = "<group>"; };
+		448B2378F549429BF1E80C6C5D97D9C4 /* LatoLatin-Medium.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Medium.ttf"; sourceTree = "<group>"; };
+		451652C427154BAC1BCD25D847F755AC /* LatoFontiOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LatoFontiOS-prefix.pch"; sourceTree = "<group>"; };
 		488AEA1F8863D9CD2AAA6D684DDCFD7D /* Pods-LatoFontiOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LatoFontiOS_Tests-umbrella.h"; sourceTree = "<group>"; };
-		5476C19D10A5E5FFA1F0F77A340872D8 /* LatoFontiOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = LatoFontiOS.modulemap; sourceTree = "<group>"; };
-		55D632C82753016733555A01F6C67F92 /* ResourceBundle-LatoFontiOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-LatoFontiOS-Info.plist"; sourceTree = "<group>"; };
-		6CA3D92BF262C057B14013746F6E0544 /* LatoFontiOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LatoFontiOS-prefix.pch"; sourceTree = "<group>"; };
+		54C75C136A0529C9BDD23269A33BCC97 /* LatoFontiOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = LatoFontiOS.modulemap; sourceTree = "<group>"; };
+		5971F69BB0609048DCAC44C1E7DDA7E1 /* LatoLatin-Light.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Light.ttf"; sourceTree = "<group>"; };
+		5FC3E105A3846B062E9FE9F4AF104201 /* ResourceBundle-LatoFontiOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-LatoFontiOS-Info.plist"; sourceTree = "<group>"; };
+		64973AD72BFCE519C6CEF80626F197DC /* LatoLatin-HeavyItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-HeavyItalic.ttf"; sourceTree = "<group>"; };
+		65ED2F0424B27076BA1E4078E6A892A5 /* LatoFontiOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LatoFontiOS.xcconfig; sourceTree = "<group>"; };
 		75088840F4439D2EDEFCB75941F2C556 /* Pods-LatoFontiOS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LatoFontiOS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		760544BA675B0B5D8C5FBC6379B538CF /* Pods_LatoFontiOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LatoFontiOS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7ED05C3ABC610FBD2734A6DBFD70DF17 /* LatoLatin-Semibold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Semibold.ttf"; sourceTree = "<group>"; };
 		86EE6C18F5F3B63053C8CA1F28D3B32A /* Pods-LatoFontiOS_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LatoFontiOS_Example-umbrella.h"; sourceTree = "<group>"; };
+		97CD2329177B73E25C4A2F6CD3A656D3 /* LatoLatin-Italic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Italic.ttf"; sourceTree = "<group>"; };
+		98BB24097EE7D6CB435F9F1BF0620E63 /* LatoFontiOS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = LatoFontiOS.swift; sourceTree = "<group>"; };
 		9A5EF2B473D4A659F002337275365892 /* Pods-LatoFontiOS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-LatoFontiOS_Example-dummy.m"; sourceTree = "<group>"; };
 		9CA02AB94B935FFBD5559C3B481FDF3F /* LatoFontiOS.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LatoFontiOS.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F83F01D0E2ED98F10638A9FB586257A /* LatoLatin-Heavy.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Heavy.ttf"; sourceTree = "<group>"; };
+		A1205F32ADCFF5A4A52CB9981A8E6C19 /* LatoLatin-Regular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Regular.ttf"; sourceTree = "<group>"; };
+		A3C315AC568FDF10590DBB1DB747CF30 /* LatoFontiOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LatoFontiOS-umbrella.h"; sourceTree = "<group>"; };
 		A69C3EC35A847E2AE70DB05A7F23BACE /* Pods-LatoFontiOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-LatoFontiOS_Tests.modulemap"; sourceTree = "<group>"; };
+		A87C032A443C2FC872ACD72BCB54C5F1 /* LatoLatin-Black.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Black.ttf"; sourceTree = "<group>"; };
 		AFBBEDDA3DBCE946E7AF7E9D874E0C73 /* Pods-LatoFontiOS_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LatoFontiOS_Example-resources.sh"; sourceTree = "<group>"; };
 		B0BA800AE0FF45DA3275815C4A4D1DBB /* Pods-LatoFontiOS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-LatoFontiOS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		B1C167E5ADC7131C30AAC29FF07718D4 /* LatoLatin-Hairline.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Hairline.ttf"; sourceTree = "<group>"; };
 		B325C82E0CF56F77487951186FED9B45 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B7565A22491FA0A5F63CA01DF01F2C00 /* LatoFontiOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = LatoFontiOS.xcconfig; sourceTree = "<group>"; };
-		B7640EF284E69ABF53750976FEB067F1 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
+		B4BCC107E42E0EC6A28BB45CB8D387C9 /* LatoLatin-Thin.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Thin.ttf"; sourceTree = "<group>"; };
+		B60EBF3BE8F4801A2B1F8AA03CC7CF57 /* LatoLatin-MediumItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-MediumItalic.ttf"; sourceTree = "<group>"; };
 		BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		C49411B7AC3746608A1A8ACF5328372B /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C51F8CDD0EA5D74DE23354F489E29C1F /* LatoFontiOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LatoFontiOS-umbrella.h"; sourceTree = "<group>"; };
 		C785FEC14EAE3C6DE6F0D1DCBF95D46A /* Pods-LatoFontiOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-LatoFontiOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		C986B50D2CFD052C9307C7B8D2F01738 /* LatoFontiOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LatoFontiOS-dummy.m"; sourceTree = "<group>"; };
 		CBF80F4337BEE129DA4A3305693BD7BE /* Pods-LatoFontiOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-LatoFontiOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		D4A6DCDCED58FD53AE8F067C300612A0 /* LatoLatin-ThinItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-ThinItalic.ttf"; sourceTree = "<group>"; };
+		DB63E3F045288F8B3005F26C520B0AF7 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E6E3AD7FCF0B50093632D9F7E55B8D17 /* LatoLatin-HairlineItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-HairlineItalic.ttf"; sourceTree = "<group>"; };
+		F795A47354C0C2D55D25493331D5D681 /* LatoLatin-Bold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-Bold.ttf"; sourceTree = "<group>"; };
 		F92AFABC8346AB1DEB508A3334B1E68F /* Pods_LatoFontiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LatoFontiOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9CB4F3AF69D945FB4322C1E81918E13 /* Pods-LatoFontiOS_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-LatoFontiOS_Tests-resources.sh"; sourceTree = "<group>"; };
+		FD64E4135275B7BF0AFD06B6F1AD3EFB /* LatoLatin-BoldItalic.ttf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "LatoLatin-BoldItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +152,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		108C4D4522C2A20C2C3F30ADE0059367 /* LatoFontiOS */ = {
+			isa = PBXGroup;
+			children = (
+				C0E44116D0C7DB3D4BFA8AE52CABFFF4 /* Classes */,
+			);
+			path = LatoFontiOS;
+			sourceTree = "<group>";
+		};
 		112C7921E3A497328D11F4930CBBC9CA /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -124,12 +168,29 @@
 			name = iOS;
 			sourceTree = "<group>";
 		};
-		19F0C6969CEA96DD23DB9F5CB9461E7F /* Development Pods */ = {
+		3B2E289A5A2247C4FB70E4FE8B413EB4 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				A194B207CC1E940FA0366E51ABF0E9B9 /* LatoFontiOS */,
+				A87C032A443C2FC872ACD72BCB54C5F1 /* LatoLatin-Black.ttf */,
+				11B0D0DB4A62F4F728710A3F1B1A8FFA /* LatoLatin-BlackItalic.ttf */,
+				F795A47354C0C2D55D25493331D5D681 /* LatoLatin-Bold.ttf */,
+				FD64E4135275B7BF0AFD06B6F1AD3EFB /* LatoLatin-BoldItalic.ttf */,
+				B1C167E5ADC7131C30AAC29FF07718D4 /* LatoLatin-Hairline.ttf */,
+				E6E3AD7FCF0B50093632D9F7E55B8D17 /* LatoLatin-HairlineItalic.ttf */,
+				9F83F01D0E2ED98F10638A9FB586257A /* LatoLatin-Heavy.ttf */,
+				64973AD72BFCE519C6CEF80626F197DC /* LatoLatin-HeavyItalic.ttf */,
+				97CD2329177B73E25C4A2F6CD3A656D3 /* LatoLatin-Italic.ttf */,
+				5971F69BB0609048DCAC44C1E7DDA7E1 /* LatoLatin-Light.ttf */,
+				15D05F32DC8D6A271C17D89B633E450D /* LatoLatin-LightItalic.ttf */,
+				448B2378F549429BF1E80C6C5D97D9C4 /* LatoLatin-Medium.ttf */,
+				B60EBF3BE8F4801A2B1F8AA03CC7CF57 /* LatoLatin-MediumItalic.ttf */,
+				A1205F32ADCFF5A4A52CB9981A8E6C19 /* LatoLatin-Regular.ttf */,
+				7ED05C3ABC610FBD2734A6DBFD70DF17 /* LatoLatin-Semibold.ttf */,
+				38500F64CCAB65891E81E3CC73C1E393 /* LatoLatin-SemiboldItalic.ttf */,
+				B4BCC107E42E0EC6A28BB45CB8D387C9 /* LatoLatin-Thin.ttf */,
+				D4A6DCDCED58FD53AE8F067C300612A0 /* LatoLatin-ThinItalic.ttf */,
 			);
-			name = "Development Pods";
+			path = Assets;
 			sourceTree = "<group>";
 		};
 		47AD458985801B5AFEC6B5E4D61FCEE5 /* Targets Support Files */ = {
@@ -159,11 +220,19 @@
 			path = "Target Support Files/Pods-LatoFontiOS_Example";
 			sourceTree = "<group>";
 		};
+		5EF134AEC773B4576571EA925FF64467 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				A7FD65C77746EF39B4B66B7E6A8BB31B /* LatoFontiOS */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				BA6428E9F66FD5A23C0A2E06ED26CD2F /* Podfile */,
-				19F0C6969CEA96DD23DB9F5CB9461E7F /* Development Pods */,
+				5EF134AEC773B4576571EA925FF64467 /* Development Pods */,
 				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
 				9A9B335C9BE1A5C9F2BB2DC8A7E78753 /* Products */,
 				47AD458985801B5AFEC6B5E4D61FCEE5 /* Targets Support Files */,
@@ -199,11 +268,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A194B207CC1E940FA0366E51ABF0E9B9 /* LatoFontiOS */ = {
+		A7FD65C77746EF39B4B66B7E6A8BB31B /* LatoFontiOS */ = {
 			isa = PBXGroup;
 			children = (
-				F3C0239DF7748E87D30816D9176C4CA9 /* LatoFontiOS */,
-				D16A3C748DD325EDCA8D62E1278031B7 /* Support Files */,
+				108C4D4522C2A20C2C3F30ADE0059367 /* LatoFontiOS */,
+				E820DBD580EB270C6F2DE575C3319F6E /* Resources */,
+				D0451EEF3C3F86BE495D5787959D3F4D /* Support Files */,
 			);
 			name = LatoFontiOS;
 			path = ../..;
@@ -217,35 +287,43 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D16A3C748DD325EDCA8D62E1278031B7 /* Support Files */ = {
+		C0E44116D0C7DB3D4BFA8AE52CABFFF4 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				C49411B7AC3746608A1A8ACF5328372B /* Info.plist */,
-				5476C19D10A5E5FFA1F0F77A340872D8 /* LatoFontiOS.modulemap */,
-				B7565A22491FA0A5F63CA01DF01F2C00 /* LatoFontiOS.xcconfig */,
-				C986B50D2CFD052C9307C7B8D2F01738 /* LatoFontiOS-dummy.m */,
-				6CA3D92BF262C057B14013746F6E0544 /* LatoFontiOS-prefix.pch */,
-				C51F8CDD0EA5D74DE23354F489E29C1F /* LatoFontiOS-umbrella.h */,
-				55D632C82753016733555A01F6C67F92 /* ResourceBundle-LatoFontiOS-Info.plist */,
+				98BB24097EE7D6CB435F9F1BF0620E63 /* LatoFontiOS.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		C524012F5B5B4389DD0454FC3D23A24B /* LatoFontiOS */ = {
+			isa = PBXGroup;
+			children = (
+				3B2E289A5A2247C4FB70E4FE8B413EB4 /* Assets */,
+			);
+			path = LatoFontiOS;
+			sourceTree = "<group>";
+		};
+		D0451EEF3C3F86BE495D5787959D3F4D /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				DB63E3F045288F8B3005F26C520B0AF7 /* Info.plist */,
+				54C75C136A0529C9BDD23269A33BCC97 /* LatoFontiOS.modulemap */,
+				65ED2F0424B27076BA1E4078E6A892A5 /* LatoFontiOS.xcconfig */,
+				3C0CD718C92B3A58694C93223960CF6D /* LatoFontiOS-dummy.m */,
+				451652C427154BAC1BCD25D847F755AC /* LatoFontiOS-prefix.pch */,
+				A3C315AC568FDF10590DBB1DB747CF30 /* LatoFontiOS-umbrella.h */,
+				5FC3E105A3846B062E9FE9F4AF104201 /* ResourceBundle-LatoFontiOS-Info.plist */,
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/LatoFontiOS";
 			sourceTree = "<group>";
 		};
-		EA5444966A56D66E70FB6B3515445F80 /* Classes */ = {
+		E820DBD580EB270C6F2DE575C3319F6E /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				B7640EF284E69ABF53750976FEB067F1 /* ReplaceMe.swift */,
+				C524012F5B5B4389DD0454FC3D23A24B /* LatoFontiOS */,
 			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		F3C0239DF7748E87D30816D9176C4CA9 /* LatoFontiOS */ = {
-			isa = PBXGroup;
-			children = (
-				EA5444966A56D66E70FB6B3515445F80 /* Classes */,
-			);
-			path = LatoFontiOS;
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -300,7 +378,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = BDDC69473FBB3F1EFD60B75418013274 /* Build configuration list for PBXNativeTarget "LatoFontiOS" */;
 			buildPhases = (
-				0B39043FCAB6542DE428B99D8953F492 /* Sources */,
+				7F0A3821217B9E9F6B9C4AC2E4C7FB1D /* Sources */,
 				D40BE8593BB342A1E081A2616DF1BEBF /* Frameworks */,
 				FD5C218D3E912C439164D439CB2CE0F1 /* Resources */,
 				29AEAC593947F8EFE5F6C688DAE221D5 /* Headers */,
@@ -339,7 +417,7 @@
 			buildPhases = (
 				ABBFF03583D919857B373F817ABC8715 /* Sources */,
 				1F0B844772BDBCFAD4158ED9C021175E /* Frameworks */,
-				9A22C6E6AA2EA405777A4075966EB527 /* Resources */,
+				F2D23EE26F2FFBBF0E661AA5622EA3A3 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -380,10 +458,28 @@
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9A22C6E6AA2EA405777A4075966EB527 /* Resources */ = {
+		F2D23EE26F2FFBBF0E661AA5622EA3A3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				474F0D37758E4A73A178402767C60102 /* LatoLatin-Black.ttf in Resources */,
+				924EA76D44BDF32F1F6784D82611DDC4 /* LatoLatin-BlackItalic.ttf in Resources */,
+				C9C872F09E39D72A2056CA0D45E8F1DC /* LatoLatin-Bold.ttf in Resources */,
+				3647288D4BD539EFDD22410F71D5EDFA /* LatoLatin-BoldItalic.ttf in Resources */,
+				79B1296D6398CD46E739088BE7E8844E /* LatoLatin-Hairline.ttf in Resources */,
+				8B91D96A5E4FE829DE66BC4F7D23E109 /* LatoLatin-HairlineItalic.ttf in Resources */,
+				BAA5977FF1AB9AE63F59C484803813E0 /* LatoLatin-Heavy.ttf in Resources */,
+				18E4C6758141595B33F96ADC8C7A4F2E /* LatoLatin-HeavyItalic.ttf in Resources */,
+				047D16D612B1148B8138DCCBEDC66288 /* LatoLatin-Italic.ttf in Resources */,
+				5B41814CCC860362A7C6C1A8F245E862 /* LatoLatin-Light.ttf in Resources */,
+				CE2818741D41B9965367A22B81421E91 /* LatoLatin-LightItalic.ttf in Resources */,
+				1863B2C7D7C7C8CD8EDF3E876C93E984 /* LatoLatin-Medium.ttf in Resources */,
+				1D920C635B9990809D06534119B84B53 /* LatoLatin-MediumItalic.ttf in Resources */,
+				0E03884FB6D50D80E5F7ADC7CBD3556D /* LatoLatin-Regular.ttf in Resources */,
+				933BE1274572E0C0D5BDBE9059523B1A /* LatoLatin-Semibold.ttf in Resources */,
+				8C010A12E91F5819BE3DF19033D4A66C /* LatoLatin-SemiboldItalic.ttf in Resources */,
+				A0CD563C0FC0D710CB463360BC437636 /* LatoLatin-Thin.ttf in Resources */,
+				36CE03DBB366014A76E34B86364D3111 /* LatoLatin-ThinItalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -398,12 +494,12 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0B39043FCAB6542DE428B99D8953F492 /* Sources */ = {
+		7F0A3821217B9E9F6B9C4AC2E4C7FB1D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				96656CA740556FB1BB538C41AD3F7BC9 /* LatoFontiOS-dummy.m in Sources */,
-				A831058C58BD4C35EC896665450DB153 /* ReplaceMe.swift in Sources */,
+				4DF273D2343D2761E3503952CB463B67 /* LatoFontiOS-dummy.m in Sources */,
+				BE7B7564233DE67F13EBCFCD880684DA /* LatoFontiOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -456,7 +552,7 @@
 /* Begin XCBuildConfiguration section */
 		015DE1F9D6AC260D48C58DE18CA9A5D0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B7565A22491FA0A5F63CA01DF01F2C00 /* LatoFontiOS.xcconfig */;
+			baseConfigurationReference = 65ED2F0424B27076BA1E4078E6A892A5 /* LatoFontiOS.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -582,7 +678,7 @@
 		};
 		84F370AE5A6EBB6F81AF7FCF96DA4FE0 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B7565A22491FA0A5F63CA01DF01F2C00 /* LatoFontiOS.xcconfig */;
+			baseConfigurationReference = 65ED2F0424B27076BA1E4078E6A892A5 /* LatoFontiOS.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
@@ -678,7 +774,7 @@
 		};
 		B6ABBD0ADFD9591F584902F50BCC539B /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B7565A22491FA0A5F63CA01DF01F2C00 /* LatoFontiOS.xcconfig */;
+			baseConfigurationReference = 65ED2F0424B27076BA1E4078E6A892A5 /* LatoFontiOS.xcconfig */;
 			buildSettings = {
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -693,7 +789,7 @@
 		};
 		C837A47C9F568FFFDAFE7085BC400348 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B7565A22491FA0A5F63CA01DF01F2C00 /* LatoFontiOS.xcconfig */;
+			baseConfigurationReference = 65ED2F0424B27076BA1E4078E6A892A5 /* LatoFontiOS.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LatoFontiOS_Example', :exclusive => true do
+  pod 'LatoFontiOS', :path => '../'
+end
+
+target 'LatoFontiOS_Tests', :exclusive => true do
+  pod 'LatoFontiOS', :path => '../'
+
+  
+end

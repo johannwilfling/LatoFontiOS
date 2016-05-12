@@ -19,18 +19,18 @@ Pod::Spec.new do |s|
 
   s.description      = "Provides the font family Lato for iOS."
 
-  s.homepage         = "https://github.com/<GITHUB_USERNAME>/LatoFontiOS"
+  s.homepage         = "https://github.com/johannwilfling/LatoFontiOS"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
   s.author           = { "Johann Wilfling" => "johann.wilfling@gmail.com" }
-  s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/LatoFontiOS.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/johannwilfling/LatoFontiOS.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'LatoFontiOS/Classes/**/*'
   s.resource_bundles = {
-    'LatoFontiOS' => ['LatoFontiOS/Assets/*.png']
+    'LatoFontiOS' => ['LatoFontiOS/Assets/*.ttf']
   }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
